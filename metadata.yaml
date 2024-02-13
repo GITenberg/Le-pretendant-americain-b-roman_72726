@@ -1,0 +1,49 @@
+_repo: Le-pretendant-americain-b-roman_72726
+_version: 0.0.1
+alternative_title: The American claimant. French
+contributor:
+  translator:
+    agent_name: Gaïl, François de
+    aliases:
+    - Gail, Francois de
+    - De Gaïl, François
+    birthdate: 1874
+    deathdate: 1947
+    gutenberg_agent_id: '4609'
+    url: http://www.gutenberg.org/2009/agents/4609
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2024-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72726'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k663474
+pgterms:marc905: 20230128123305twain
+pgterms:marc906: '1906'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bMercure de France, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Mistaken identity -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Le prétendant américain : $b roman'
+url: http://www.gutenberg.org/ebooks/72726
